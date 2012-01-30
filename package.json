@@ -1,0 +1,23 @@
+{
+	"name": "djeo-jenks",
+	"author": "Vladimir Elistratov",
+	"description": "A javascript port of Jenks Natural Breaks Optimization for the djeo library",
+	"licenses": [
+		{
+			"type": "LGPLv3",
+			"url": "http://www.gnu.org/licenses/lgpl.html"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vvoovv/djeo-jenks"
+	},
+	"bugs": "https://github.com/vvoovv/djeo-jenks/issues",
+	"dependencies": {
+		"djeo": "0.1.0"
+	},
+	"keywords": ["djeo", "geo"],
+	"homepage": "http://djeo.org",
+	"main": "./main",
+	"icon": "http://djeo.github.com/djeo25.png"
+}

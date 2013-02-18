@@ -23,7 +23,7 @@ var getBreaks = function(dataList, numClasses) {
 	for(var i=0; i<=numElements; i++) {
 		var temp = []
 		for(var j=0; j<=numClasses; j++) {
-			temp.push[0];
+			temp.push(0);
 		}
 		mat1.push(temp);
 	}
@@ -32,7 +32,7 @@ var getBreaks = function(dataList, numClasses) {
 	for(var i=0; i<=numElements; i++) {
 		var temp = []
 		for(var j=0; j<=numClasses; j++) {
-			temp.push[0];
+			temp.push(0);
 		}
 		mat2.push(temp);
 	}
